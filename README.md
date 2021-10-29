@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m now working for SHUNFEN.
-- 🌱 I’m a pupil of front-end learning. 
+- 🌱 I’m a front-end learning. 
 - 🤔 I’m currently coding in Javascript and Vue.
 
 <img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
