@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m now working for SHUNFEN.
-- 🌱 I’m a coder of front-end. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 🌱 I’m a coder of front-end. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🤔 I’m currently coding in Javascript and Vue. 
 
 
