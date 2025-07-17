@@ -3,7 +3,7 @@
 
 - 🔭 I’m now working for SHOPEE.
 - 🌱 I’m a coder of front-end. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🤔 I’m currently coding in Javascript and Vue. 
+- 🤔 I’m currently coding in Javascript and React. 
 
 
 <!-- <img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp"> -->
